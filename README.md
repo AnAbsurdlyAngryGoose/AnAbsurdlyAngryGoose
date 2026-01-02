@@ -1,4 +1,8 @@
-Honk! I’m [u/AnAbsurdlyAngryGoose](https://reddit.com/u/anabsurdlyangrygoose). I architect software for a living and help moderate online communities for fun. Somewhere in the overlap of those two worlds, I build tools that make communities clearer, safer, more accountable, and more enjoyable to be part of.
+Honk! I’m [u/AnAbsurdlyAngryGoose](https://reddit.com/u/anabsurdlyangrygoose) and I build apps for the [Reddit Developer Platform](https://developers.reddit.com) — lovingly known as Devvit.
+
+All the code you’ll find here is certified honkin’ fresh, hatched by my own feathers and entirely AI-free. My goal is to build tools that help online communities stay transparent, accountable, safe, and fun — and I take that responsibility seriously, even if I don’t take myself too seriously.
+
+### Devvit App Listing
 
 Some of these projects are open-source (or source-available). Feel free to poke around!
 
