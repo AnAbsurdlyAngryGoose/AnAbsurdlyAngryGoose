@@ -9,5 +9,5 @@ Some of these projects are open-source (or source-available). Feel free to poke 
 | Name | Description | App | Code |
 | :--- | --- | --- | --- |
 | **Open Mod** | Publishes a public, curated extract of your moderation logs, enabling greater transparency for moderation teams and empowering users to better understand how your community is managed. | [App Directory](https://developers.reddit.com/apps/open-mod) | [GitHub](https://github.com/anabsurdlyangrygoose/openmod) |
-| Unannounced Tool #1 | Coming January 2026 | ??? | ??? |
+| **Please Don't Destroy** | Preserve discussions and community context, auto-enforce content deletion rules, and reduce evasion without discouraging good-faith contributors — transparently, proportionally, and defensibly | [App Directory](https://developers.reddit.com/apps/plsdontdestroy) | [GitHub](https://github.com/anabsurdlyangrygoose/pls-dont-destroy) |
 | Unannounced Tool #2 | Coming January 2026 | ??? | ??? |
